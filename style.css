@@ -26,8 +26,8 @@ main h2 {
 
 /* Add Student Styles Below */
 .my-style {
-    color: orange
-    background-color:aquamarine
+    color: yellow;
+    background-color:red;
     padding: 3px;
 }
 
